@@ -6,6 +6,7 @@
 <p>The Tradie Tracker App is a web application designed to streamline job management for tradespeople. It allows users to efficiently manage their projects, clients, and tasks in one centralized platform.</p>
             <p>I brought up this idea from a real-world problem identified during a conversation with a friend of mine who lives in Sydney and manages his jobs and employees using Excel tables. After a long conversation, we defined a product that would meet his demands, and I decided to suggest that idea to my colleagues, who liked it and embarked on this project with me. It's something that I am proud of.</p>
 
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=douglasmagni&show_icons=true&theme=dark"
@@ -17,7 +18,37 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=douglasmagni&show_icons=true" />
 </picture>
+<div>
 
+
+### Key human skills  
+- Project Management
+- Presentation and Demo Experience 
+- Active Listening
+- Agile Methodologies
+- Team Collaboration
+- Non-Violent Communication Strategies (NVC)
+-  ### Key Tech skills
+- REST APIs
+- Test-Driven Development
+- Relational Databases
+- Node.js
+- Knex
+- JavaScript
+- HTML5
+- Cascading Style Sheets (CSS)
+- Tailwind CSS
+- Express.js
+- Superagent
+- Vitest
+- GitHub
+- Database Queries
+- React
+- TypeScript
+- ReactQuery
+- Sqlite3
+- Auth0
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
