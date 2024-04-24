@@ -3,9 +3,8 @@
 
 <p>I'm Douglas Post, a recent graduate from a tech program in Auckland, known as Dev Academy Aotearoa. At Dev Academy, I acquired skills in building fullstack software applications in an Agile environment.
 -  I’m currently working on my personal project called Tradie Tracker App.</p>
-<p>The Tradie Tracker App is a web application designed to streamline job management for tradespeople. It allows users to efficiently manage their projects, clients, and tasks in one centralized platform.</p>
-            <p>I brought up this idea from a real-world problem identified during a conversation with a friend of mine who lives in Sydney and manages his jobs and employees using Excel tables. After a long conversation, we defined a product that would meet his demands, and I decided to suggest that idea to my colleagues, who liked it and embarked on this project with me. It's something that I am proud of.</p>
-
+<p>The Tradie Tracker App is a web application designed to streamline job management for tradespeople.</p>
+            
 
 <picture>
   <source
