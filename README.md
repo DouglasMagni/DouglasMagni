@@ -8,7 +8,7 @@
 🔹 Agile Methodologies  
 🔹 Team Collaboration  
 
-📋 <b>Key Tech Skills:</b>  
+📋 <b>Key Software Engineer Skills:</b>  
 ✅ REST APIs  
 ✅ Test-Driven Development  
 ✅ Relational Databases  
@@ -37,7 +37,7 @@
 
 
 
-📋 <b>Data Engineering and Analytics Skills:</b>  
+📋 <b>Key Data Engineering and Analytics Skills:</b>  
 🔸 Advanced SQL  
 🔸 Data Cleaning and Wrangling with Python  
 🔸 Snowflake Data Warehousing  
