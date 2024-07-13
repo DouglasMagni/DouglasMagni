@@ -51,6 +51,13 @@
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
 <img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 <img align="center" alt="Airflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+<img
+  align="center"
+  alt="Databricks"
+  height="30"
+  width="40"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png"
+/>
 
 
 🔎 <b>My projects on GitHub:</b>  
