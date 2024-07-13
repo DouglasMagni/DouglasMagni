@@ -61,10 +61,11 @@
 
 
 🔎 <b>My projects on GitHub:</b>  
+- [Football Performance Analysis](https://github.com/DouglasMagni/Football-Performance-Analysis)
 - [NovaDrive Motors](https://github.com/DouglasMagni/NovaDrive-Motors)  
 - [MoviesLib](https://github.com/DouglasMagni/MoviesLib)  
 - [TodoList](https://github.com/DouglasMagni/TodoList)  
-- [Tic-Tac-Toe](https://github.com/DouglasMagni/tic-tac-toe)  
+  
 
 
 
